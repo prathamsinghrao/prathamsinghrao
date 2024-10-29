@@ -4,7 +4,7 @@
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
     📝 I regularly write articles on 
-    <a href="https://www.linkedin.com/in/rao-pratham-singh-7ba935212/details/featured/" target="_blank" style="color: #0077B5;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/rao-pratham-singh-7ba935212/details/featured/" target="_blank" style="color: #0077B5;">View Articles</a>
 </p>
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
