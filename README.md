@@ -7,8 +7,8 @@
 </p>
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
-    🔗 Recommendations: what others have to say about my work 
-    <a href="https://www.linkedin.com/in/rao-pratham-singh-7ba935212/details/recommendations/" target="_blank" style="color: #0077B5;">View Articles</a>
+    🔗 what others have to say about my work 
+    <a href="https://www.linkedin.com/in/rao-pratham-singh-7ba935212/details/recommendations/" target="_blank" style="color: #0077B5;">Recommendations</a>
 </p>
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
