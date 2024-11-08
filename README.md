@@ -12,8 +12,16 @@
 </p>
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
+    🔗 Recommendations: Check out what others have to say about my work 
+    <a href="https://www.linkedin.com/in/rao-pratham-singh-7ba935212/details/recommendations/" target="_blank" style="color: #0077B5;">View Articles</a>
+</p>
+
+
+<p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
     📫 How to reach me: <strong><a href="mailto:prathamsingh.rao@gmail.com" style="color: #0077B5;">prathamsingh.rao@gmail.com</a></strong>
 </p>
+
+
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
     📄 Know about my experiences: 
