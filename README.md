@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm Pratham Singh</h1>
-<h3 align="center" style="font-family: Arial, sans-serif; color: #666;">Backend Developer | .NET & Azure Specialist | ETL | Azure Data Factory | Data Engineering</h3><br><br><br>
+<h3 align="center" style="font-family: Arial, sans-serif; color: #666;">Full-stack Developer | .NET & Azure Specialist | React.js | ETL | Azure Data Factory | Data Engineering</h3><br><br><br>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
